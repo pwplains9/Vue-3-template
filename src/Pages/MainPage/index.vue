@@ -1,0 +1,1 @@
+<template lang="pug">div	| Main</template><script>export default {    // eslint-disable-next-line vue/multi-word-component-names	name: "MainPage",}</script><style scoped></style>
