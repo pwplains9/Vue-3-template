@@ -1,4 +1,4 @@
-# Rubility
+# Vue 3 template
 
 ## Project setup
 ```
